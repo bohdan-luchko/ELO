@@ -1,4 +1,4 @@
-const { API_URL, API_HEADERS } = require('../constants/index');
+// const { API_URL, API_HEADERS } = require('../constants/index');
 const networkConfigs = {
   '0x1': {
     chainName: 'Ethereum',
