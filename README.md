@@ -4,7 +4,7 @@
 
 # This is EfforlessOrder Sale Sites
 
-# `Node version : 18.19.0`
+# `Node version : 20.0.0`
 
 #
 
